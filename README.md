@@ -11,4 +11,8 @@ What about me?
 
 - 🤔 I want to help with anything
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+
+   • Discord: Aitooor#9999
+
+   • Twitter: https://twitter.es/_Aitooor_
