@@ -9,6 +9,6 @@ What about me?
 
 - 🌱 I’m currently learning Java and Web Fullstack
 
-- 🤔 I’m looking for help with anything
+- 🤔 I want to help with anything
 
 - 📫 How to reach me: ...
