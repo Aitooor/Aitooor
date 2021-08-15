@@ -5,7 +5,7 @@
 -->
 What about me?
 
-- 🔭 I’m currently working on @NasgarNetwork
+- 🔭 I’m currently working on @Nasgar-Network
 
 - 🌱 I’m currently learning Java and Web Fullstack
 
