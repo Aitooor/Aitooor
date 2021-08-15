@@ -5,7 +5,7 @@
 -->
 What about me?
 
-- 🔭 I’m currently working on @Nasgar-Network
+- 🔭 I’m currently working on <a href="https://github.com/Nasgar-Network">@Nasgar Network</a>
 
 - 🌱 I’m currently learning Java and Web Fullstack
 
@@ -15,4 +15,4 @@ What about me?
 
    • Discord: Aitooor#9999
 
-   • Twitter: https://twitter.es/_Aitooor_
+   • Twitter: <a href="https://twitter.com/_Aitooor_">@_Aitooor_</a>
