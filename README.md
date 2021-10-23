@@ -3,15 +3,15 @@
 <!--
 **Aitooor/Aitooor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-What about me?
+<b>What about me?</b>
 
-- 💼 I’m currently working on <a href="https://github.com/Nasgar-Network">@Nasgar Network</a> and <a href="https://twitter.com/StarsBT_">@Stars BuilderTeam</a>
+- 💼 I’m currently working on <b><a href="https://github.com/Nasgar-Network">@Nasgar Network</a></b> and <b><a href="https://twitter.com/StarsBT_">@Stars BuilderTeam</a></b>
 
-- 📚 I’m currently learning Java and Web Fullstack. And I need to become Web Fullstack ❤️
+- 📚 I’m currently learning <b>Java</b> and <b>Web Fullstack</b>. And I need to become <b>Web Fullstack</b> ❤️
 
 - 🙋🏽‍♂️ I want to help with anything
 
-- 📩 How to reach me:
+- 📩 <b>How to reach me:</b>
 
    • Discord: Aitooor#4912
 
