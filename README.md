@@ -5,7 +5,7 @@
 -->
 What about me?
 
-- 🔭 I’m currently working on <a href="https://github.com/Nasgar-Network">@Nasgar Network</a> and <a href="https://twitter.com/Stars BT">@Stars BT</a>
+- 🔭 I’m currently working on <a href="https://github.com/Nasgar-Network">@Nasgar Network</a> and <a href="https://twitter.com/StarsBT_">@Stars BT</a>
 
 - 🌱 I’m currently learning Java and Web Fullstack
 
