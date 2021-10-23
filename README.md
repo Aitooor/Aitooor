@@ -13,9 +13,9 @@
 
 - 📩 <b>How to reach me:</b>
 
-   • Discord: Aitooor#4912
+   • <b>Discord:</b> Aitooor#4912
 
-   • Twitter: <a href="https://twitter.com/_Aitooor_">@_Aitooor_</a>
+   • <b>Twitter:</b> <a href="https://twitter.com/_Aitooor_">@_Aitooor_</a>
 <br>
 
 ### 👋 Hola me llamo Aitor
@@ -23,15 +23,15 @@
 <!--
 **Aitooor/Aitooor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-¿Quieres saber sobre mi?
+<b>¿Quieres saber sobre mi?</b>
 
-- 💼 Estoy actualmente trabajando en <a href="https://github.com/Nasgar-Network">@Nasgar Network</a> y <a href="https://twitter.com/StarsBT_">@Stars BuilderTeam</a>
+- 💼 Estoy actualmente trabajando en <b><a href="https://github.com/Nasgar-Network">@Nasgar Network</a></b> y <b><a href="https://twitter.com/StarsBT_">@Stars BuilderTeam</a></b>
 
-- 📚 Estoy actualmente aprendiendo Java and Web Fullstack. Y quiero convertirme en Web Fullstack ❤️
+- 📚 Estoy actualmente aprendiendo <b>Java</b> and <b>Web Fullstack</b>. Y quiero convertirme en <b>Web Fullstack</b> ❤️
 
 - 🙋🏽‍♂️ Quiero ayudar con cualquier cosa
 
-- 📩 Como contactarme:
+- 📩 <b>Como contactarme:</b>
 
    • Discord: Aitooor#4912
 
