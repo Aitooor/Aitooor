@@ -18,7 +18,6 @@ What about me?
    • Twitter: <a href="https://twitter.com/_Aitooor_">@_Aitooor_</a>
 <br>
 <br>
-<br>
 
 ### 👋 Hola me llamo Aitor
 
