@@ -15,7 +15,7 @@
 
    • <b>Discord:</b> Aitooor#4912
 
-   • <b>Twitter:</b> <a href="https://twitter.com/_Aitooor_">@_Aitooor_</a>
+   • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
 <br>
 
 ### 👋 Hola me llamo Aitor
@@ -33,6 +33,6 @@
 
 - 📩 <b>Como contactarme:</b>
 
-   • Discord: Aitooor#4912
+   • <b>Discord:</b> Aitooor#4912
 
-   • Twitter: <a href="https://twitter.com/_Aitooor_">@_Aitooor_</a>
+   • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
