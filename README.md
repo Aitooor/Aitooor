@@ -16,10 +16,8 @@ What about me?
    • Discord: Aitooor#4912
 
    • Twitter: <a href="https://twitter.com/_Aitooor_">@_Aitooor_</a>
-
-
-
-
+<br>
+<br>
 ### 👋 Hola me llamo Aitor
 
 <!--
