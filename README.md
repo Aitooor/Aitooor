@@ -1,3 +1,5 @@
+<img align='right' src="https://discord.c99.nl/widget/theme-4/454002606084194305.png"/>
+
 ### 👋 Hi my name is Aitor
 
 <!--
