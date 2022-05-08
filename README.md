@@ -1,6 +1,6 @@
 <img align='right' src="https://discord.c99.nl/widget/theme-4/454002606084194305.png"/>
 
-### |EN| 👋 Hi my name is Aitor
+### |🇺🇸EN| 👋 Hi my name is Aitor
 
 <!--
 **Aitooor/Aitooor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@
    • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
 <br>
 
-### |ES| 👋 Hola me llamo Aitor
+### |🇪🇸ES| 👋 Hola me llamo Aitor
 
 <!--
 **Aitooor/Aitooor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
