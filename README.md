@@ -1,8 +1,8 @@
 <a href="https://github.com/Aitooor">
-  <img align="left" src=https://github-readme-stats.vercel.app/api?username=Aitooor&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=apprentice />
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=Aitooor&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=apprentice />
 </a>
 <a href="https://github.com/Aitooor">
-  <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Aitooor&layout=compact&theme=apprentice />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Aitooor&layout=compact&theme=apprentice />
 </a>
 
 <hr>
