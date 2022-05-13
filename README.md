@@ -1,7 +1,7 @@
 <img align='right' src="https://discord.c99.nl/widget/theme-4/454002606084194305.png"/>
 
 <a href="https://github.com/FckmlDev">
-  <img align="left" src=https://github-readme-stats.vercel.app/api?username=Aitooor&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=apprentice />
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=Aitooor&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=apprentice />
 </a>
 <a href="https://github.com/FckmlDev">
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Aitooor&layout=compact&theme=apprentice />
