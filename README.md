@@ -27,7 +27,7 @@
 -->
 <b>¿Quieres saber sobre mi?</b>
 
-- 💼 Estoy actualmente trabajando en <b><a href="https://twitter.com/NasgarNetwork">@Nasgar</a></b> y <b><a href="https://twitter.com/eternalnoficial">@Eternal Network</a></b>
+- 💼 Estoy actualmente trabajando en <b><a href="https://twitter.com/NasgarNetwork">Nasgar Network</a></b> y <b><a href="https://twitter.com/eternalnoficial">Eternal Network</a></b>
 
 - 📚 Estoy actualmente aprendiendo <b>Java</b> and <b>Web Fullstack</b>. Y quiero convertirme en <b>Web Fullstack</b> ❤️
 
