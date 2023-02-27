@@ -7,7 +7,7 @@
 -->
 <b>What about me?</b>
 
-- 💼 I’m currently working on <b><a href="https://twitter.com/NasgarNetwork">Nasgar Network</a></b> and <b><a href="https://twitter.com/eternalnoficial">Eternal Network</a></b>
+- 💼 I’m currently working on <b><a href="https://twitter.com/NasgarNetwork">Nasgar Network</a></b>
 
 - 📚 I’m currently learning <b>Java</b> and <b>Web Fullstack</b>. And I need to become <b>Web Fullstack Developer</b> ❤️
 
@@ -27,7 +27,7 @@
 -->
 <b>¿Quieres saber sobre mi?</b>
 
-- 💼 Estoy actualmente trabajando en <b><a href="https://twitter.com/NasgarNetwork">Nasgar Network</a></b> y <b><a href="https://twitter.com/eternalnoficial">Eternal Network</a></b>
+- 💼 Estoy actualmente trabajando en <b><a href="https://twitter.com/NasgarNetwork">Nasgar Network</a></b>
 
 - 📚 Estoy actualmente aprendiendo <b>Java</b> and <b>Web Fullstack</b>. Y quiero convertirme en <b>Programador Web Fullstack</b> ❤️
 
