@@ -1,6 +1,6 @@
 <img align='right' src="https://discord.c99.nl/widget/theme-4/454002606084194305.png"/>
 
-### |🇺🇸EN| 👋 Hi my name is Aitor
+### (🇺🇸EN) 👋 Hi my name is Aitor
 
 <!--
 **Aitooor/Aitooor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@
    • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
 <hr>
 
-### |🇪🇸ES| 👋 Hola me llamo Aitor
+### (🇪🇸ES) 👋 Hola me llamo Aitor
 
 <!--
 **Aitooor/Aitooor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,5 +39,6 @@
 
    • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
 <hr>
+<img src="https://komarev.com/ghpvc/?username=Aitooor&label=Profile%20views&color=00e622&style=for-the-badge" alt="Aitooor"/>
   <img align="center" width="100%" src=https://github-readme-stats.vercel.app/api?username=Aitooor&show_icons=true&count_private=true&include_all_commits=true&theme=apprentice />
   <img align="center" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Aitooor&layout=compact&theme=apprentice />
