@@ -39,6 +39,7 @@
 
    • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
 <hr>
+[![Coding time tracker](https://wakatime.com/badge/github/wakatime/wakatime-blog.svg)](https://wakatime.com/badge/github/wakatime/wakatime-blog)
 <img src="https://komarev.com/ghpvc/?username=Aitooor&label=Profile%20views&color=00e622&style=for-the-badge" alt="Aitooor"/>
   <img align="center" width="100%" src=https://github-readme-stats.vercel.app/api?username=Aitooor&show_icons=true&count_private=true&include_all_commits=true&theme=apprentice />
   <img align="center" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Aitooor&layout=compact&theme=apprentice />
