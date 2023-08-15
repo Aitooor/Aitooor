@@ -4,7 +4,7 @@
 
 <b>What about me?</b>
 
-- 📚 I’m currently learning <b>Java</b> and <b>Web Fullstack</b>. and I dream with being <b>Senior Back-End developer</b> ❤️
+- 📚 I’m currently learning <b>Java</b> and <b>Web Development</b>. and I dream with being <b>Senior Back-End developer</b> ❤️
 
 - 🙋🏽‍♂️ I want to help with anything
 
@@ -19,7 +19,7 @@
 
 <b>¿Quieres saber sobre mi?</b>
 
-- 📚 Estoy actualmente aprendiendo <b>Java</b> and <b>Web Fullstack</b>. Y sueño convertirme en <b>Programador Back-End Senior</b> ❤️
+- 📚 Estoy actualmente aprendiendo <b>Java</b> y <b>Desarrollo Web</b>. Y sueño convertirme en <b>Programador Back-End Senior</b> ❤️
 
 - 🙋🏽‍♂️ Quiero ayudar con cualquier cosa
 
