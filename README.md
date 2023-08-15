@@ -1,6 +1,6 @@
 <img align='right' src="https://discord.c99.nl/widget/theme-4/454002606084194305.png"/>
 
-### EN 🇺🇸 👋 Hi my name is Aitor
+### EN 🇺🇸 👋 Hi my name is Aitor Arias
 
 <b>What about me?</b>
 
@@ -15,7 +15,7 @@
    • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
 <hr>
 
-### ES 🇪🇸 👋 Hola me llamo Aitor
+### ES 🇪🇸 👋 Hola me llamo Aitor Arias
 
 <b>¿Quieres saber sobre mi?</b>
 
