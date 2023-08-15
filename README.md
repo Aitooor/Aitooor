@@ -4,7 +4,7 @@
 
 <b>What about me?</b>
 
-- 📚 I’m currently learning <b>Java</b> and <b>Web Development</b>. and I dream with being <b>Senior Back-End developer</b> ❤️
+- 📚 I’m currently learning <b>Java</b> and <b>Web Development</b>. And I dream with being <b>Senior Back-End developer</b> ❤️
 
 - 🙋🏽‍♂️ I want to help with anything
 
