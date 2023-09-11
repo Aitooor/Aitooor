@@ -11,6 +11,8 @@
 - 📩 <b>How to reach me:</b>
 
    • <b>Discord:</b> Aitooor#4912
+
+   • <b>Email:</b> aitorarias19@gmail.com
 <hr>
 
 ### ES 🇪🇸 👋 Hola me llamo Aitor Arias
@@ -24,3 +26,5 @@
 - 📩 <b>Como contactarme:</b>
 
    • <b>Discord:</b> Aitooor#4912
+
+   • <b>Email:</b> aitorarias19@gmail.com
