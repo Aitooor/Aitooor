@@ -11,8 +11,6 @@
 - 📩 <b>How to reach me:</b>
 
    • <b>Discord:</b> Aitooor#4912
-
-   • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
 <hr>
 
 ### ES 🇪🇸 👋 Hola me llamo Aitor Arias
@@ -26,5 +24,3 @@
 - 📩 <b>Como contactarme:</b>
 
    • <b>Discord:</b> Aitooor#4912
-
-   • <b>Twitter:</b> <b><a href="https://twitter.com/_Aitooor_">@_Aitooor_</a></b>
