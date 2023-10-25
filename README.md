@@ -1,5 +1,3 @@
-<img align='right' src="https://discord.c99.nl/widget/theme-4/454002606084194305.png"/>
-
 ### EN 🇺🇸 👋 Hi my name is Aitor Arias
 
 <b>What about me?</b>
