@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4.svg)](https://wakatime.com/@0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=Aitooor&color=lightgrey)
 
 ### EN 🇺🇸 👋 Hi my name is Aitor Arias
 
