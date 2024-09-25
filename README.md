@@ -3,7 +3,7 @@
 <hr>
 
 ### **My skills | Mis habilidades**
-[![My Skills](https://skillicons.dev/icons?i=java,cloudflare,linux,bash,git,github,gitlab,mongodb,redis,mysql,sqlite,gradle,maven,nginx,html,css,bootstrap,kotlin,js,nodejs,npm,ts,php,docker,postman,githubactions,apple,windows,blender,ai,ps,discord,bots,idea,vscode,eclipse,atom,notion&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cloudflare,linux,bash,git,github,gitlab,mongodb,redis,mysql,sqlite,gradle,maven,nginx,html,css,bootstrap,kotlin,js,nodejs,npm,ts,php,docker,postman,githubactions,apple,windows,blender,ai,ps,discord,bots,idea,vscode,eclipse,atom,notion&perline=10)](#)
 <hr>
 
 ### 🇺🇸 👋 Hi my name is Aitor Arias Benéitez
