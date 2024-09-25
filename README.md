@@ -1,31 +1,36 @@
 [![wakatime](https://wakatime.com/badge/user/0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4.svg)](https://wakatime.com/@0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4)
 ![](https://komarev.com/ghpvc/?username=Aitooor&color=lightgrey)
+<hr>
 
-### EN 🇺🇸 👋 Hi my name is Aitor Arias
+### **My skills | Mis habilidades**
+[![My Skills](https://skillicons.dev/icons?i=java,cloudflare,linux,bash,git,github,gitlab,mongodb,redis,mysql,sqlite,gradle,maven,nginx,html,css,bootstrap,kotlin,js,nodejs,npm,ts,php,docker,postman,githubactions,apple,windows,blender,ai,ps,discord,bots,idea,vscode,eclipse,atom,notion&perline=10)](https://skillicons.dev)
+<hr>
+
+### 🇺🇸 👋 Hi my name is Aitor Arias Benéitez
 
 <b>What about me?</b>
 
-- 📚 I’m currently learning <b>Java</b> and <b>Web Development</b>. And I dream with being <b>Senior Back-End developer</b> ❤️
+- 📚 I’m currently learning <b>Java</b> and <b>Spring + Spring Boot</b>. And I dream with being <b>Senior Back-End developer</b> ❤️
 
-- 🙋🏽‍♂️ I want to help with anything
+- 🙋🏽‍♂️ I like to help with anything
 
 - 📩 <b>How to reach me:</b>
 
-   • <b>Discord:</b> Aitooor#4912
+   • <b>Discord:</b> `aitooor`
 
-   • <b>Email:</b> aitorarias19@gmail.com
+   • <b>Email:</b> `aitorarias19@gmail.com`
 <hr>
 
-### ES 🇪🇸 👋 Hola me llamo Aitor Arias
+### 🇪🇸 👋 Hola me llamo Aitor Arias Benéitez
 
 <b>¿Quieres saber sobre mi?</b>
 
-- 📚 Estoy actualmente aprendiendo <b>Java</b> y <b>Desarrollo Web</b>. Y sueño convertirme en <b>Programador Back-End Senior</b> ❤️
+- 📚 Estoy actualmente aprendiendo <b>Java</b> y <b>Spring + Spring Boot</b>. Y sueño convertirme en <b>Programador Back-End Senior</b> ❤️
 
-- 🙋🏽‍♂️ Quiero ayudar con cualquier cosa
+- 🙋🏽‍♂️ Me gusta ayudar con cualquier cosa
 
 - 📩 <b>Como contactarme:</b>
 
-   • <b>Discord:</b> Aitooor#4912
+   • <b>Discord:</b> `aitooor`
 
-   • <b>Email:</b> aitorarias19@gmail.com
+   • <b>Email:</b> `aitorarias19@gmail.com`
