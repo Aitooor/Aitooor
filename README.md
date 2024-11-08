@@ -28,7 +28,7 @@
 
 <div>
   <p align="center">
-    Soy un programador Back-end que también ha trabajado con Front-end, me gusta aprender cosas nuevas y ayudar a los demás. Me encanta la programación y la tecnología, siempre estoy buscando aprender cosas nuevas y mejorar mis habilidades. Me encanta trabajar en equipo y colaborar en proyectos de código abierto. Siempre estoy buscando nuevas oportunidades para aprender y crecer como desarrollador.
+    I am a Back-end programmer who has also worked with Front-end, I like to learn new things and help others. I love programming and technology, I am always looking to learn new things and improve my skills. I love working as a team and collaborating on open source projects. I'm always looking for new opportunities to learn and grow as a developer.
   </p>
   <ul>
     <li>📚 I’m currently learning ...
