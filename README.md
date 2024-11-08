@@ -33,11 +33,12 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 - 📩 How to reach me: <a href="mailto:aitorarias19@gmail.com">aitorarias19@gmail.com</a>
 
 ---
+
 ## My Skills Include
 
-<h4> Front-end and Back-end </h4>
+<h4 align="center"> Front-end and Back-end </h4>
 
-<h6> Front-end </h6>
+<h6 align="center"> Front-end </h6>
 
 <div align="center">
 
@@ -52,7 +53,7 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 </div>
 
-<h6> Both </h6>
+<h6 align="center"> Both </h6>
 
 <div align="center">
 
@@ -61,7 +62,7 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 </div>
 
-<h6> Back-end </h6>
+<h6 align="center"> Back-end </h6>
 
 <div align="center">
 
@@ -74,7 +75,9 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 </div>
 
-<h4> Technologies | DBS | Frameworks | Libs </h4>
+---
+
+<h4 align="center"> Technologies | DBS | Frameworks | Libs </h4>
 
 <div align="center">
 
@@ -95,9 +98,11 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 </div>
 
-<h4> Tools, OS and others </h4>
+---
 
-<h6> Tools </h6>
+<h4 align="center"> Tools, OS and others </h4>
+
+<h6 align="center"> Tools </h6>
 
 <div align="center">
 
@@ -123,7 +128,7 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 </div>
 
-<h6> OS </h6>
+<h6 align="center"> OS </h6>
 
 <div align="center">
 
@@ -140,7 +145,9 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 </div>
 
-<h4> Graphic Design </h4>
+---
+
+<h4 align="center"> Graphic Design </h4>
 
 <div align="center">
 
@@ -153,7 +160,9 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 </div>
 
-<h4> Hosting/SaaS </h4>
+---
+
+<h4 align="center"> Hosting/SaaS </h4>
 
 <div align="center">
 
@@ -167,7 +176,7 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 
 ---
 
-<h2>Stats:</h2>
+<h2 align="center">Stats</h2>
 
 <div align="center">
 
