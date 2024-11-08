@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center">
-  Hi, I'm Aitor Arias Beneitez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"> Hi, I'm Aitor Arias Beneitez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
 </h1>
 
 <p align="center">
@@ -20,21 +20,34 @@
 
 ---
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<p align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>About me</b>&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</p>
 
-Soy un programador Back-end que también ha trabajado con Front-end, me gusta aprender cosas nuevas y ayudar a los demás. Me encanta la programación y la tecnología, siempre estoy buscando aprender cosas nuevas y mejorar mis habilidades. Me encanta trabajar en equipo y colaborar en proyectos de código abierto. Siempre estoy buscando nuevas oportunidades para aprender y crecer como desarrollador.
-- 📚 I’m currently learning ...
-    - Kotlin
-    - Android Development
-    - Kotlin Multiplatform
-- 🙇🏽‍I’m looking forward to collaborate on open source projects.
-- 🛟 I like to help with anything<br>
-- 👟 Outside of programming, I like sports, music, video games and being with my friends/family.
-- 📩 How to reach me: <a href="mailto:aitorarias19@gmail.com">aitorarias19@gmail.com</a>
+
+
+<div>
+  <p align="center">
+    Soy un programador Back-end que también ha trabajado con Front-end, me gusta aprender cosas nuevas y ayudar a los demás. Me encanta la programación y la tecnología, siempre estoy buscando aprender cosas nuevas y mejorar mis habilidades. Me encanta trabajar en equipo y colaborar en proyectos de código abierto. Siempre estoy buscando nuevas oportunidades para aprender y crecer como desarrollador.
+  </p>
+  <ul>
+    <li>📚 I’m currently learning ...
+      <ul>
+        <li>Kotlin</li>
+        <li>Android Development</li>
+        <li>Kotlin Multiplatform</li>
+      </ul>
+    </li>
+    <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
+    <li>🛟 I like to help with anything<br></li>
+    <li>👟 Outside of programming, I like sports, music, video games and being with my friends/family.</li>
+    <li>📩 How to reach me: <a href="mailto:aitorarias19@gmail.com">aitorarias19@gmail.com</a></li>
+  </ul>
+</div>
 
 ---
 
-## My Skills Include
+<h2 align="center"> My Skills Include </h2>
 
 <h4 align="center"> Front-end and Back-end </h4>
 
