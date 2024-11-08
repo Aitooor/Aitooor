@@ -1,16 +1,24 @@
 <div align="center">
 
-  [![wakatime](https://wakatime.com/badge/user/0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4.svg)](https://wakatime.com/@0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4)
-  ![](https://komarev.com/ghpvc/?username=Aitooor&color=lightgrey)
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorarias19@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-arias-815607238/)
+[![wakatime](https://wakatime.com/badge/user/0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4.svg)](https://wakatime.com/@0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4)
+![](https://komarev.com/ghpvc/?username=Aitooor&color=lightgrey)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorarias19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-arias-815607238/)
 
 </div>
 
-<h1 align="center"><b>Hi, I'm Aitor Arias Beneitez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+---
 
-<img align="right" width="300px" alt="Unicorn" src="https://media1.tenor.com/m/444GySMNJ5AAAAAd/book-penguin.gif" />
+<h1 align="center">
+  Hi, I'm Aitor Arias Beneitez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
+</h1>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/444GySMNJ5AAAAAd/book-penguin.gif" width="200" alt="Unicorn">
+</p>
+
+---
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -24,6 +32,7 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
 - 👟 Outside of programming, I like sports, music, video games and being with my friends/family.
 - 📩 How to reach me: <a href="mailto:aitorarias19@gmail.com">aitorarias19@gmail.com</a>
 
+---
 ## My Skills Include
 
 <h4> Front-end and Back-end </h4>
@@ -155,6 +164,8 @@ Soy un programador Back-end que también ha trabajado con Front-end, me gusta ap
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
+
+---
 
 <h2>Stats:</h2>
 
