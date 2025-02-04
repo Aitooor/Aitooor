@@ -33,10 +33,10 @@
   <ul>
     <li>💼 I’m currently working at ...
       <ul>
-        <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
-        <li><a href="https://cloudylicenses.cloudycoding.com">CloudyLicenses (From CloudyCoding)</a></li>
-        <li><a href="https://novpn.cloudycoding.com">NoVPN (From CloudyCoding)</a></li>
-        <li><a href="https://store.nasgar.eu">Nasgar (Minecraft server)</a></li>
+        <li><a href="https://cloudycoding.com" target="_blank">CloudyCoding</a></li>
+        <li><a href="https://cloudylicenses.cloudycoding.com" target="_blank">CloudyLicenses (From CloudyCoding)</a></li>
+        <li><a href="https://novpn.cloudycoding.com" target="_blank">NoVPN (From CloudyCoding)</a></li>
+        <li><a href="https://store.nasgar.eu" target="_blank">Nasgar (Minecraft server)</a></li>
       </ul>
     </li>
     <li>📚 I’m currently learning ...
