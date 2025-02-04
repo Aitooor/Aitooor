@@ -31,11 +31,19 @@
     I am a Back-end programmer who has also worked with Front-end, I like to learn new things and help others. I love programming and technology, I am always looking to learn new things and improve my skills. I love working as a team and collaborating on open source projects. I'm always looking for new opportunities to learn and grow as a developer.
   </p>
   <ul>
+    <li>💼 I’m currently working at ...
+      <ul>
+        <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
+        <li><a href="https://cloudylicenses.cloudycoding.com">CloudyLicenses (From CloudyCoding)</a></li>
+        <li><a href="https://novpn.cloudycoding.com">NoVPN (From CloudyCoding)</a></li>
+        <li><a href="https://store.nasgar.eu">Nasgar (Minecraft server)</a></li>
+      </ul>
+    </li>
     <li>📚 I’m currently learning ...
       <ul>
         <li>Kotlin</li>
-        <li>Android Development</li>
-        <li>Kotlin Multiplatform</li>
+        <li>JavaScript & TypeScript</li>
+        <li>Python</li>
       </ul>
     </li>
     <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
