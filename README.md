@@ -41,7 +41,7 @@
     <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
     <li>🛟 I like to help with anything<br></li>
     <li>👟 Outside of programming, I like sports, music, video games and being with my friends/family.</li>
-    <li>📩 How to reach me: <a href="mailto:aitorarias19@gmail.com">aitorarias19@gmail.com</a></li>
+    <li>📩 How to reach me: <a href="mailto:aitorarias19@gmail.com">aitorarias@cloudycoding.com</a></li>
   </ul>
 </div>
 
