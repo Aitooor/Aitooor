@@ -42,8 +42,9 @@
     <li>📚 I’m currently learning ...
       <ul>
         <li>Kotlin</li>
+        <li>Android</li>
+        <li>Kotlin MultiPlatform</li>
         <li>JavaScript & TypeScript</li>
-        <li>Python</li>
       </ul>
     </li>
     <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
