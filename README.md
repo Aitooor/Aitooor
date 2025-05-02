@@ -34,9 +34,9 @@
     <li>💼 I’m currently working at ...
       <ul>
         <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
-        <li><a href="https://licenses.cloudycoding.com">CloudyLicenses (From CloudyCoding)</a></li>
-        <li><a href="https://cloudycoding.com">CloudyHosting (From CloudyCoding)</a></li>
-        <li><a href="https://novpn.cloudycoding.com">NoVPN (From CloudyCoding)</a></li>
+        <li><a href="https://licenses.cloudycoding.com">CloudyLicenses (by CloudyCoding)</a></li>
+        <li><a href="https://cloudycoding.com">CloudyHosting (by CloudyCoding)</a></li>
+        <li><a href="https://novpn.cloudycoding.com">NoVPN (by CloudyCoding)</a></li>
         <li><a href="https://store.nasgar.eu">Nasgar (Minecraft server)</a></li>
       </ul>
     </li>
