@@ -36,8 +36,8 @@
         <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
         <li><a href="https://licenses.cloudycoding.com">CloudyLicenses (by CloudyCoding)</a></li>
         <li><a href="https://cloudycoding.com">CloudyHosting (by CloudyCoding)</a></li>
-        <li><a href="https://novpn.cloudycoding.com">NoVPN (by CloudyCoding)</a></li>
         <li><a href="https://store.nasgar.eu">Nasgar (Minecraft server)</a></li>
+        <li><a href="#">PetGo</a></li>
       </ul>
     </li>
     <li>📚 I’m currently learning ...
