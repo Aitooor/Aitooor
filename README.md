@@ -46,8 +46,7 @@
       <ul>
         <li>React Native</li>
         <li>Android</li>
-        <li>Kotlin</li>
-        <li>Kotlin MultiPlatform</li>
+        <li>Kotlin & Kotlin MultiPlatform(KMP)</li>
       </ul>
     </li>
     <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
