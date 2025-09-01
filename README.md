@@ -33,19 +33,21 @@
   <ul>
     <li>💼 I’m currently working at ...
       <ul>
+        <li><a href="https://gelatto.net">Gelatto</a></li>
+        <li><a href="https://labs.gelatto.net">Gelatto Labs</a></li>
+        <li><a href="https://api-labs.gelatto.net">Gelatto Labs RestAPI Panel</a></li>
+        <li><a href="#">PetGo</a></li>
         <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
         <li><a href="https://licenses.cloudycoding.com">CloudyLicenses (by CloudyCoding)</a></li>
-        <li><a href="https://cloudycoding.com">CloudyHosting (by CloudyCoding)</a></li>
         <li><a href="https://store.nasgar.eu">Nasgar (Minecraft server)</a></li>
-        <li><a href="#">PetGo</a></li>
       </ul>
     </li>
     <li>📚 I’m currently learning ...
       <ul>
-        <li>Kotlin</li>
+        <li>React Native</li>
         <li>Android</li>
+        <li>Kotlin</li>
         <li>Kotlin MultiPlatform</li>
-        <li>JavaScript & TypeScript</li>
       </ul>
     </li>
     <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
@@ -74,6 +76,9 @@
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
@@ -101,6 +106,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
