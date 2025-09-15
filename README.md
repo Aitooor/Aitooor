@@ -36,17 +36,15 @@
         <li><a href="https://gelatto.net">Gelatto</a></li>
         <li><a href="https://labs.gelatto.net">Gelatto Labs</a></li>
         <li><a href="https://api-labs.gelatto.net">Gelatto Labs RestAPI Panel</a></li>
-        <li><a href="#">PetGo</a></li>
+        <li><a href="#">"PetGo"</a></li>
         <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
         <li><a href="https://licenses.cloudycoding.com">CloudyLicenses (by CloudyCoding)</a></li>
-        <li><a href="https://store.nasgar.eu">Nasgar (Minecraft server)</a></li>
       </ul>
     </li>
     <li>📚 I’m currently learning ...
       <ul>
         <li>React Native</li>
         <li>Android</li>
-        <li>Kotlin & Kotlin MultiPlatform(KMP)</li>
       </ul>
     </li>
     <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
