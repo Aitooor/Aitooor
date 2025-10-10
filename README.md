@@ -36,7 +36,12 @@
         <li><a href="https://gelatto.net">Gelatto</a></li>
         <li><a href="https://labs.gelatto.net">Gelatto Labs</a></li>
         <li><a href="https://api-labs.gelatto.net">Gelatto Labs RestAPI Panel</a></li>
-        <li><a href="#">"PetGo"</a></li>
+        <li><a href="https://do-go.eu">DO-GO</a></li>
+      </ul>
+    </li>
+    <li>💼 Secondary work ...
+      <ul>
+        <li><a href="#">Nasgar</a></li>
         <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
         <li><a href="https://licenses.cloudycoding.com">CloudyLicenses (by CloudyCoding)</a></li>
       </ul>
@@ -44,7 +49,9 @@
     <li>📚 I’m currently learning ...
       <ul>
         <li>React Native</li>
-        <li>Android</li>
+        <li>NextJS</li>
+        <li>TypeScript</li>
+        <li>Python</li>
       </ul>
     </li>
     <li>🙇🏽‍I’m looking forward to collaborate on open source projects.</li>
