@@ -3,7 +3,7 @@
   [![wakatime](https://wakatime.com/badge/user/0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4.svg)](https://wakatime.com/@0e5fc4a6-d1bf-4e12-be60-96f33e7a90e4)
   ![](https://komarev.com/ghpvc/?username=Aitooor&color=lightgrey)
   
-  [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorarias@gelatto.net)
+  [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorarias@gelatto.net)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aitor-arias-benéitez/)
 
 </div>
