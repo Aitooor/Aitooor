@@ -45,7 +45,6 @@
       <ul>
         <li><a href="#">Nasgar</a></li>
         <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
-        <li><a href="https://licenses.cloudycoding.com">CloudyLicenses (by CloudyCoding)</a></li>
       </ul>
     </li>
     <li>📚 I’m currently learning ...
