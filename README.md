@@ -43,6 +43,7 @@
     </li>
     <li>💼 Secondary work ...
       <ul>
+        <li><a href="https://cleanbin.casaarias.eu">Cleanbin</a></li>
         <li><a href="#">Nasgar</a></li>
         <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
       </ul>
