@@ -39,6 +39,7 @@
         <li><a href="https://labs.gelatto.net">Gelatto Labs</a></li>
         <li><a href="https://api-labs.gelatto.net">Gelatto Labs RestAPI Panel</a></li>
         <li><a href="https://do-go.eu">DO-GO</a></li>
+        <li><a href="https://hytaleanarchy.tebex.io/">HytaleAnarchy</a></li>
       </ul>
     </li>
     <li>💼 Secondary work ...
