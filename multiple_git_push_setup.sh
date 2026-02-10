@@ -2,6 +2,12 @@
 
 # Script to configure Git remotes for pushing to GitHub and local server
 # Configuration variables - modify these as needed
+# Auto-protect this script from accidental credential uploads
+SCRIPT_NAME="$(basename "$0")"
+if [ -f "$SCRIPT_NAME" ]; then
+    git update-index --assume-unchanged "$SCRIPT_NAME" 2>/dev/null
+    echo "Script protected from git uploads"
+fi
 
 SERVER_USER="example_user"
 SERVER_PASS="example_pass"
