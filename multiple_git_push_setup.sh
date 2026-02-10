@@ -5,8 +5,10 @@
 
 SERVER_USER="example_user"
 SERVER_PASS="example_pass"
+SERVER_IP="localhost"
+SERVER_PORT="3000"
 GITHUB_USER="example_user"
-LOCAL_SERVER="http://${SERVER_USER}:${SERVER_PASS}@localhost:3000/${SERVER_USER}/.profile.git"
+LOCAL_SERVER="http://${SERVER_USER}:${SERVER_PASS}@${SERVER_IP}:${SERVER_PORT}/${SERVER_USER}/.profile.git"
 GITHUB_REPO="https://github.com/${GITHUB_USER}/${GITHUB_USER}.git"
 BRANCH="main"
 
