@@ -3,11 +3,11 @@
 # Script to configure Git remotes for pushing to GitHub and local server
 # Configuration variables - modify these as needed
 
-GITHUB_REPO="https://github.com/example_user/example_user.git"
 SERVER_USER="example_user"
-SERVER_PASS="example_password"
-LOCAL_SERVER="http://${SERVER_USER}:${SERVER_PASS}@localhost:3000/${SERVER_USER}/.profile.git"
+SERVER_PASS="example_pass"
 GITHUB_USER="example_user"
+LOCAL_SERVER="http://${SERVER_USER}:${SERVER_PASS}@localhost:3000/${SERVER_USER}/.profile.git"
+GITHUB_REPO="https://github.com/${GITHUB_USER}/${GITHUB_USER}.git"
 BRANCH="main"
 
 echo "Configuring Git remotes..."
