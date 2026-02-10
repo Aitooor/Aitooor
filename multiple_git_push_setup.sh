@@ -4,9 +4,9 @@
 # Configuration variables - modify these as needed
 
 GITHUB_REPO="https://github.com/example_user/example_user.git"
-LOCAL_SERVER="http://localhost:3000/example_user/.profile.git"
 SERVER_USER="example_user"
 SERVER_PASS="example_password"
+LOCAL_SERVER="http://${SERVER_USER}:${SERVER_PASS}@localhost:3000/${SERVER_USER}/.profile.git"
 GITHUB_USER="example_user"
 BRANCH="main"
 
@@ -18,7 +18,7 @@ git remote add origin "$GITHUB_REPO"
 
 # Set push URLs
 git remote set-url --add --push origin "$GITHUB_REPO"
-git remote set-url --add --push origin "http://${SERVER_USER}:${SERVER_PASS}@192.168.2.59:3000/aitorarias_eu_4123512/.profile.git"
+git remote set-url --add --push origin "$LOCAL_SERVER"
 
 # Configure user
 git config user.name "$GITHUB_USER"
