@@ -48,7 +48,6 @@
         <li><a href="https://store.nasgar.eu">Nasgar</a></li>
         <li><a href="https://tienda.elhubsocial.net">ElHubSocial - Hytale Hispanic network</a></li>
         <li><a href="#">Cleanbin</a></li>
-        <li><a href="https://cloudycoding.com">CloudyCoding</a></li>
         <li><a href="https://ilerna-notes.aitorarias.eu">Ilerna Notes RA Calculator(Non official)</a></li>
       </ul>
     </li>
