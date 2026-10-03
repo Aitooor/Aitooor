@@ -38,17 +38,13 @@
         <li><a href="https://gelatto.net">Gelatto</a></li>
         <li><a href="https://labs.gelatto.net">Gelatto Labs</a></li>
         <li><a href="https://api-labs.gelatto.net">Gelatto Labs RestAPI Panel</a></li>
-        <li><a href="https://do-go.eu">DO-GO</a></li>
-        <li><a href="https://hytaleanarchy.tebex.io/">HytaleAnarchy</a></li>
-        <li><a href="https://hytalebuilders.tebex.io/">HytaleBuilders/HytaleBuild</a></li>
+        <li><a href="https://store.nasgar.eu">Nasgar</a></li>
       </ul>
     </li>
     <li>💼 Secondary work ...
       <ul>
-        <li><a href="https://store.nasgar.eu">Nasgar</a></li>
-        <li><a href="https://tienda.elhubsocial.net">ElHubSocial - Hytale Hispanic network</a></li>
         <li><a href="#">Cleanbin</a></li>
-        <li><a href="https://ilerna-notes.aitorarias.eu">Ilerna Notes RA Calculator(Non official)</a></li>
+        <li><a href="https://tienda.elhubsocial.net">ElHubSocial - Hytale Hispanic network</a></li>
       </ul>
     </li>
     <li>📚 I’m currently learning ...
